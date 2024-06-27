@@ -1,4 +1,30 @@
-# yt-to-mp3
-This is youtube video to mp3 convertor made using python , request library
-it is very simple and small code not very complex and easy to undersrand
+# YouTube Video to MP3 Converter
 
+This script takes a YouTube video URL as input and converts it to an MP3 file using the RapidAPI YouTube-MP36 API.
+
+## Installation
+
+* Install the required libraries by running `pip install requests urllib.parse`
+* Clone this repository and navigate to the project directory
+
+## Usage
+
+* Run the script by executing `python youtube_mp3_converter.py`
+* Enter a valid YouTube URL when prompted
+* The script will convert the video to MP3 and display the video metadata and download link
+
+## Dependencies
+
+* Python 3.6+
+* requests library
+* urllib.parse library
+
+## Known Issues
+
+* The RapidAPI YouTube-MP36 API may have usage limits or restrictions
+* The script may not work for all YouTube videos or URLs
+
+## Feedback and Support
+
+* Contact tadano at dendropic@gmail.com for feedback or support
+* Open an issue on this repositoryif you encounter any problems or have suggestions for improvement
