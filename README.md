@@ -24,6 +24,7 @@ This script takes a YouTube video URL as input and converts it to an MP3 file us
 
 * The RapidAPI YouTube-MP36 API may have usage limits or restrictions
 * The script may not work for all YouTube videos or URLs
+* It only works with urls from desktop youtube only
 
 ## Feedback and Support
 
