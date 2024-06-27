@@ -65,7 +65,7 @@ def convert_video_to_mp3(video_id):
     querystring = {"id": video_id}
 
     headers = {
-        "x-rapidapi-key": "a5494d3184msh22c0dcd2a596ab7p159360jsn3d0e74734b6f",
+        "x-rapidapi-key": "GET-YOUR-API-KEY-FROM-GIVEN-LINK-IN-read.md-FILE",
         "x-rapidapi-host": "youtube-mp36.p.rapidapi.com"
     }
 
