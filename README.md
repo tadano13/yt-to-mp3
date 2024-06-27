@@ -9,7 +9,7 @@ This script takes a YouTube video URL as input and converts it to an MP3 file us
 
 ## Usage
 
-* Run the script by executing `python youtube_mp3_converter.py`
+* Run the script by executing `python index.py`
 * Enter a valid YouTube URL when prompted
 * The script will convert the video to MP3 and display the video metadata and download link
 
