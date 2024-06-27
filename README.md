@@ -12,6 +12,7 @@ This script takes a YouTube video URL as input and converts it to an MP3 file us
 * Run the script by executing `python index.py`
 * Enter a valid YouTube URL when prompted
 * The script will convert the video to MP3 and display the video metadata and download link
+* Get your api key from this website https://rapidapi.com/ytjar/api/youtube-mp36/playground/apiendpoint_4e7a9345-2e05-42c5-8357-cc0dbb8c27b8
 
 ## Dependencies
 
